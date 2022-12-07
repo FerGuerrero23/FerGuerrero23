@@ -6,6 +6,15 @@ Hola 👋, me llamo Fernando, soy un estudiante de Economía que busca aprender 
 </p>
 </div>
 
+### Hobbies
+<ul> 
+ <li>Salir a correr</li>
+ <li>Ir al gimnasio</li>
+ <li>Leer</li>
+ <li>Ver películas</li>
+</ul>
+
+
 ### Lenguajes de Programación 🌐
 <ul> 
  <li>Python</li>
