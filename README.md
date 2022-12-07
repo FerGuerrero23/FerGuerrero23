@@ -14,6 +14,6 @@ Hola 👋, me llamo Fernando, soy un estudiante de Economía que busca aprender 
 
 ### Contácto
 <ul> 
- <li>Linkedin:http://linkedin.com/in/fernandoguerrero23</li>
- <li>Correo:fguerreroh@pucp.edu.pe</li>
+ <li>Linkedin: http://linkedin.com/in/fernandoguerrero23</li>
+ <li>Correo: fguerreroh@pucp.edu.pe</li>
 </ul>
