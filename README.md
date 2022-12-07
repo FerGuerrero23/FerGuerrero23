@@ -2,7 +2,7 @@
 
 <div>
  <p>
-Hola 👋, me llamo Fernando, soy un estudiante de Economía que busca aprender más acerca de programación. Hasta ahora he podido aprender los lenguajes R y Python a nivel básico, los cuales los aplico en análisis de datos, recién estoy empezando en el mundo de la programación y espero poder mejorar y aprender más!
+Hola 👋, me llamo Fernando, soy un estudiante de Economía que busca aprender más acerca de programación. Hasta ahora he podido aprender los lenguajes R y Python a nivel básico, los cuales aplico en análisis de datos. Recién estoy empezando en el mundo de la programación y espero poder mejorar y aprender más!
 </p>
 </div>
 
