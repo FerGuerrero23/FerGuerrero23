@@ -6,3 +6,7 @@ Hola 👋, me llamo Fernando, soy un estudiante de Economía que busca aprender 
 </p>
 </div>
 
+### Lenguajes de Programación 🌐
+<ul> 
+ <li>Python</li>
+</ul>
