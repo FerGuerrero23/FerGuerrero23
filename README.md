@@ -12,7 +12,7 @@ Hola 👋, me llamo Fernando, soy un estudiante de Economía que busca aprender 
  <li>R</li>
 </ul>
 
-### Contácto
+### Contacto
 <ul> 
  <li>Linkedin: http://linkedin.com/in/fernandoguerrero23</li>
  <li>Correo: fguerreroh@pucp.edu.pe</li>
